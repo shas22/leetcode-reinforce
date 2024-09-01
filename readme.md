@@ -4,6 +4,9 @@ This repo is just for reinforcing and practising ideas I've already known and so
 
 This also acts as a motivation for me to solve atleast one problem a day. 
 
+I have already been solving a lot of problems before I started this repo, thus this isn't as updated as my actual Leetcode progress.
+<h4>Check out my [Leetcode](https://leetcode.com/u/shas22/) profile!</h4>
+
 <h2>Usage</h2>
 
 If you come across this, take a look at my solutions if you're interested and then if you think you have a better solution do contact me with a better solution as I'm constantly learning how to get better at this.
