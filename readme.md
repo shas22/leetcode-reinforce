@@ -10,4 +10,4 @@ If you come across this, take a look at my solutions if you're interested and th
 
 
 <h2>Metrics for absolutely no reason</h2>
-[![wakatime](https://wakatime.com/badge/github/shas22/leetcode-reinforce.svg)](https://wakatime.com/badge/github/shas22/leetcode-reinforce)
+https://wakatime.com/badge/github/shas22/leetcode-reinforce.svg
