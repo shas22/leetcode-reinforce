@@ -1,11 +1,10 @@
 <h1>Purpose</h1>
 
 This repo is just for reinforcing and practising ideas I've already known and solidifying them. Got inspired by people putting out solutions so I thought maybe I can have my own repo where it's easy to navigate and find solutions that I already have solved before. 
-
 This also acts as a motivation for me to solve atleast one problem a day. 
-
 I have already been solving a lot of problems before I started this repo, thus this isn't as updated as my actual Leetcode progress.
-<h4>Check out my [Leetcode](https://leetcode.com/u/shas22/) profile!</h4>
+
+Check out my [Leetcode](https://leetcode.com/u/shas22/) profile!
 
 <h2>Usage</h2>
 
@@ -21,4 +20,5 @@ If you happen to stumble upon the patterns folder, hopefully it helps you unders
 
 
 <h2>Metrics for absolutely no reason</h2>
-[![wakatime](https://wakatime.com/badge/github/shas22/leetcode-reinforce.svg)](https://wakatime.com/badge/github/shas22/leetcode-reinforce)
+
+<img>[![wakatime](https://wakatime.com/badge/github/shas22/leetcode-reinforce.svg)](https://wakatime.com/badge/github/shas22/leetcode-reinforce)</img>
