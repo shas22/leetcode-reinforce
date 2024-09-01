@@ -9,4 +9,5 @@ This also acts as a motivation for me to solve atleast one problem a day.
 If you come across this, take a look at my solutions if you're interested and then if you think you have a better solution do contact me with a better solution as I'm constantly learning how to get better at this.
 
 
-
+<h2>Metrics for absolutely no reason</he>
+[![wakatime](https://wakatime.com/badge/github/shas22/leetcode-reinforce.svg)](https://wakatime.com/badge/github/shas22/leetcode-reinforce)
