@@ -28,3 +28,4 @@ I am also documenting patterns I find and/or learn from resources I am using so 
 I have not thought to log stuff before this time period sadly: Week 3, Day 2 | Combined days of 16 at this point
 <br>
 <p>Sep 3, 2024: Learning new sorts and their implmentations, solutions for 155, 238, 271, 66</p>
+<p>Sep 4, 2024: Repeated completion of LC 1. New solution for LC 36,</p>
