@@ -25,6 +25,6 @@ I am also documenting patterns I find and/or learn from resources I am using so 
 
 
 <h2>Logs</h2>
-I have not thought to log stuff before this time period sadly: Week 3, Day 2 | Combined days of 16 at this point
+I have not thought to log stuff before this time period sadly: Week 3, Day 2 | Combined days of 16 at this point. This is not the actual time I started but I basically got back into it again after a very extended break
 <br>
 <p>Sep 3, 2024: Learning new sorts and their implmentations, solutions for 155, 238, 271, 66</p>
