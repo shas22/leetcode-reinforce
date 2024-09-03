@@ -26,4 +26,5 @@ I am also documenting patterns I find and/or learn from resources I am using so 
 
 <h2>Logs</h2>
 I have not thought to log stuff before this date sadly:
-Week 3, Day 2: Learning new sorts and their implmentations, solutions for 2 mediums and 1 easy
+<br>
+<p>Week 3, Day 2: Learning new sorts and their implmentations, solutions for 155, 238, 271, 66</p>
