@@ -1,4 +1,5 @@
 Topics in this problem: 
+Hashmaps
 Hashsets and map coordinates
 
 Takeaways: 
