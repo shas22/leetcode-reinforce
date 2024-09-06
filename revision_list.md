@@ -4,3 +4,5 @@ Revise the following problems:
 3. 238 | Product of Array Except Self
 4. 11
 5. 118
+6. easy/278/solution.py and read the takeaways
+7. 
