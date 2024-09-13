@@ -31,3 +31,5 @@ I have not thought to log stuff before this time period sadly: Week 3, Day 2 | C
 <p>Solutions for 11 and 141, feels like I need to revisit some older topics as they're not as ingrained as I'd like them to be.</p>
 
 <p>Sep 6: Feels like I'm slowing down on progress abit, should try and pick up the speed if possible but understanding comes first</p>
+
+<p>Sep 13: Including my bruteforce solutions when I find them first and fully implement a working version. Reason is because it helps me recall what kind of thought process I went through for each difficult problem I come across</p>
