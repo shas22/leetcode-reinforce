@@ -9,6 +9,23 @@ class Solution:
         return letter
 
 
+
+#alt solution but same format without abtraction
+
+from collections import Counter
+
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        chars = {}
+        chars2 = {}
+        for char in s:
+            chars[char] = chars.get(char, 0) + 1
+        
+        for char in t:
+            chars2[char] = chars2.get(char, 0) + 1
+
+        return chars == chars2
+
 """
 242. Valid Anagram
 Solved
