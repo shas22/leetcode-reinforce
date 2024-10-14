@@ -22,6 +22,6 @@ echo "" >> "$PARENT_DIR/$SUB_DIR/takeaways.md"
 echo "Analysis: " >> "$PARENT_DIR/$SUB_DIR/takeaways.md"
 echo "" >> "$PARENT_DIR/$SUB_DIR/takeaways.md"
 
-code "$PARENT_DIR/$SUB_DIR/solution.py"
+cursor "$PARENT_DIR/$SUB_DIR/solution.py"
 
 echo "Created directory $PARENT_DIR/$SUB_DIR and file solution.py inside it."
