@@ -4,7 +4,6 @@ class Solution:
 
         for position, character in enumerate(source_string):
             char_to_position[character] = position
-        
 
         total_difference = 0
         for current_position, character in enumerate(target_string):
